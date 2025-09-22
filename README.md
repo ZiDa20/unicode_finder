@@ -1,4 +1,22 @@
 # unicode_finder
-Scans word documents and identifies unicodes   0x202F: "U+202F (Narrow No-Break Space)",     0x200B: "0x200B (Zero Width Space)",     0x2060: "0x2060 (Word Joiner)",     0x00A0: "0x00A0 (Non-Breaking Space)",     0x200C: "0x200C (Zero Width Non-Joiner)",     0x200D: "0x200D (Zero Width Joiner)",     0x2061: "0x2061 (Function Application)".
+App Description
+This tool scans Word documents to detect and highlight hidden or non-standard Unicode characters that are often invisible during normal editing but can cause formatting or processing issues. Specifically, it identifies and reports the following characters:
 
-<img width="794" height="522" alt="image" src="https://github.com/user-attachments/assets/27263fab-75ef-44ca-beed-dcdd283e909b" />
+U+202F (Narrow No-Break Space)
+
+U+200B (Zero Width Space)
+
+U+2060 (Word Joiner)
+
+U+00A0 (Non-Breaking Space)
+
+U+200C (Zero Width Non-Joiner)
+
+U+200D (Zero Width Joiner)
+
+U+2061 (Function Application)
+
+By flagging these characters, the app helps users clean and normalize their documents, ensuring consistent formatting, improved readability, and smoother downstream text processing.
+
+<img width="992" height="782" alt="image" src="https://github.com/user-attachments/assets/7dcc263b-7d81-4b5f-900b-41c591fdd32b" />
+
