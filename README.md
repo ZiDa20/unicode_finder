@@ -17,7 +17,8 @@ By flagging these characters, the app helps users clean and normalize their docu
 ## App Usage
 Either run the python script or execute the .exe-file located in the dist/ directory on windows machines. 
 
-
+## App Demo
+Load the "minimal_example" word file too see an example. The output should look similar to the image below: 
 <img width="992" height="782" alt="image" src="https://github.com/user-attachments/assets/7dcc263b-7d81-4b5f-900b-41c591fdd32b" />
 
 
